@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-In the last few years, I have started multiple tech companies, working in different areas and learning about the different aspects they bring to the company. I In the last few years, I have started multiple tech companies, working in different areas and learning about the different aspects they bring to the company. I thrive on projects that have a real impact on improving businesses through digitalisation. I am extremely passionate about technology and keen to continue learning, improving my skills and applying them to my work. I enjoy working with a team.
+In the last few years, I have started multiple tech companies, working in different areas and learning about the different aspects they bring to the company.  I thrive on projects that have a real impact on improving businesses through digitalisation. I am extremely passionate about technology and keen to continue learning, improving my skills and applying them to my work. I enjoy working with a team.
 
 If you have questions, projects ideas or just want to chat don't hesitate and contact me :)
 <!--
