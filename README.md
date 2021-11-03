@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-In the last few years, I have started multiple tech companies, working in different areas and learning about the different aspects they bring to the company.  I thrive on projects that have a real impact on improving businesses through digitalisation. I am extremely passionate about technology and keen to continue learning, improving my skills and applying them to my work. I enjoy working with a team.
+Software engineer - organising myself, my code and my closet because my mom told me so. Avoiding mergemovidas
 
-If you have questions, projects ideas or just want to chat don't hesitate and contact me :)
+If you have questions, projects ideas, interesting jobs or just want to chat don't hesitate and contact me :)
 <!--
 **Enrikerf/enrikerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
