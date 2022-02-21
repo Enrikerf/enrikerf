@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software engineer - organising myself, my code and my closet because my mom told me so. Avoiding mergemovidas
+Software engineer - organising myself, my code and my closet because my mom told me so.
 
 If you have questions, projects ideas, interesting jobs or just want to chat don't hesitate and contact me :)
 <!--
